@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d0e7f93-cbbb-497d-94b3-f001e405c6e9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tamagotchi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tamagochi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tamagochi/Tamagotchi.java" afterDir="false" />
+    <list default="true" id="7d0e7f93-cbbb-497d-94b3-f001e405c6e9" name="Changes" comment="Första commiten">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,11 +62,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728283180494</updated>
-      <workItem from="1728283181451" duration="4117000" />
+      <workItem from="1728283181451" duration="4555000" />
     </task>
+    <task id="LOCAL−00001" summary="Första commiten">
+      <option name="closed" value="true" />
+      <created>1728287538289</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1728287538289</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Första commiten" />
+    <option name="LAST_COMMIT_MESSAGE" value="Första commiten" />
   </component>
 </project>
